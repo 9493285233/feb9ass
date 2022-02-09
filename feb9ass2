@@ -1,0 +1,12 @@
+n=int(input())
+if n%2==0:
+    print('even')
+else:
+    print('odd')
+    
+    
+    output:(for even):20
+even
+
+(for odd):3
+odd
